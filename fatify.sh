@@ -51,7 +51,7 @@ fi
 
 cd build
 
-output="Release-lipo"
+output="Release-fatify"
 
 rm -rf "$output"
 mkdir "$output"
